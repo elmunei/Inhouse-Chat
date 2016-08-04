@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>204583993982-ug4be5sstsgb8dmqrdq5pmrdgt75pjj6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.204583993982-ug4be5sstsgb8dmqrdq5pmrdgt75pjj6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAMPFeTcHb4lKk5g_kUSCiM9WgD1pnlIHI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>204583993982</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>net.elmunei..Inhouse-Chat</string>
+	<key>PROJECT_ID</key>
+	<string>inhouse-chat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>inhouse-chat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:204583993982:ios:b43b31624092e0e0</string>
+	<key>DATABASE_URL</key>
+	<string>https://inhouse-chat.firebaseio.com</string>
+</dict>
+</plist>
