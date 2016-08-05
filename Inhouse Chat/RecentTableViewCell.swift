@@ -11,7 +11,7 @@ import UIKit
 class RecentTableViewCell: UITableViewCell {
     
     let backendless = Backendless.sharedInstance()
-    
+
     
     @IBOutlet weak var nameLabel: UILabel!
     @IBOutlet weak var lastMessageLabel: UILabel!

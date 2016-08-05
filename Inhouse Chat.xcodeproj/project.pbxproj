@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5F2180115D58D8B3F0993514 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 271AF8B08CDEF565FABBE95F /* libPods.a */; };
+		8513BEC91D5504530066394C /* Recent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8513BEC81D5504530066394C /* Recent.swift */; };
 		85446D271D522E2C0046AAC7 /* libMBProgressHUD.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 85446D261D522E2C0046AAC7 /* libMBProgressHUD.a */; };
 		85446D2E1D522E550046AAC7 /* libDACircularProgress.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 85446D281D522E550046AAC7 /* libDACircularProgress.a */; };
 		85446D2F1D522E550046AAC7 /* libIDMPhotoBrowser.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 85446D291D522E550046AAC7 /* libIDMPhotoBrowser.a */; };
@@ -51,6 +52,7 @@
 /* Begin PBXFileReference section */
 		043FA408178233A2E0BB2780 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		271AF8B08CDEF565FABBE95F /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		8513BEC81D5504530066394C /* Recent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Recent.swift; path = ../../../../Desktop/Recent.swift; sourceTree = "<group>"; };
 		85446D261D522E2C0046AAC7 /* libMBProgressHUD.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libMBProgressHUD.a; path = "../../../Library/Developer/Xcode/DerivedData/Inhouse_Chat-fdscaqtubeqdffgxqghjanpwdfek/Build/Products/Debug-iphonesimulator/libMBProgressHUD.a"; sourceTree = "<group>"; };
 		85446D281D522E550046AAC7 /* libDACircularProgress.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libDACircularProgress.a; path = "../../../Library/Developer/Xcode/DerivedData/Inhouse_Chat-fdscaqtubeqdffgxqghjanpwdfek/Build/Products/Debug-iphonesimulator/libDACircularProgress.a"; sourceTree = "<group>"; };
 		85446D291D522E550046AAC7 /* libIDMPhotoBrowser.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libIDMPhotoBrowser.a; path = "../../../Library/Developer/Xcode/DerivedData/Inhouse_Chat-fdscaqtubeqdffgxqghjanpwdfek/Build/Products/Debug-iphonesimulator/libIDMPhotoBrowser.a"; sourceTree = "<group>"; };
@@ -166,6 +168,7 @@
 			isa = PBXGroup;
 			children = (
 				854D284B1D365B4E00D42241 /* AppDelegate.swift */,
+				8513BEC81D5504530066394C /* Recent.swift */,
 				858C39B51D53A54E001A5835 /* UIViewControllers */,
 				858C39B31D53A499001A5835 /* Login */,
 				858C39B41D53A4FC001A5835 /* CustomTableViewCells */,
@@ -419,6 +422,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8513BEC91D5504530066394C /* Recent.swift in Sources */,
 				8569D8C21D37587200EA72DA /* LoginViewController.swift in Sources */,
 				858C39B21D53A473001A5835 /* RecentViewController.swift in Sources */,
 				8569D8C01D37585D00EA72DA /* SignupViewController.swift in Sources */,
